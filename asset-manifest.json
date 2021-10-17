@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d176facd.chunk.css",
+    "main.js": "/static/js/main.58a21b68.chunk.js",
+    "main.js.map": "/static/js/main.58a21b68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e107559d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e107559d.js.map",
+    "static/js/2.8dfe5492.chunk.js": "/static/js/2.8dfe5492.chunk.js",
+    "static/js/2.8dfe5492.chunk.js.map": "/static/js/2.8dfe5492.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ed548e9d98c59a10b91dc2d1cae866ba.js": "/precache-manifest.ed548e9d98c59a10b91dc2d1cae866ba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d176facd.chunk.css.map": "/static/css/main.d176facd.chunk.css.map",
+    "static/js/2.8dfe5492.chunk.js.LICENSE.txt": "/static/js/2.8dfe5492.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/OpenSans-SemiBold.e1c83f94.ttf",
+    "static/media/clipboard.svg": "/static/media/clipboard.471b3127.svg",
+    "static/media/github-green.svg": "/static/media/github-green.9fd953dd.svg",
+    "static/media/github.svg": "/static/media/github.121398c0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e107559d.js",
+    "static/js/2.8dfe5492.chunk.js",
+    "static/css/main.d176facd.chunk.css",
+    "static/js/main.58a21b68.chunk.js"
+  ]
+}
